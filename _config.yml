@@ -1,8 +1,12 @@
 title: The most awesome title
 email: rolandmaio38@gmail.com
-theme: jekyll-theme-hacker
 description: > # this means to ignore newlines until "baseurl:"
   What what!
   Yes please!
 baseurl: ""
 url: ""
+
+# Build settings
+theme: jekyll-theme-hacker
+gems:
+  - jekyll-feed
