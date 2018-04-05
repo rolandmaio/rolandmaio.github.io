@@ -9,13 +9,13 @@ order: 1
 ---
 
 Hi! I'm a student at the [City College of New York](https://www.ccny.cuny.edu).
-I study [Computer Science](Wikipedia CS). I hope to pursue a PhD starting in
-the Fall of 2018.
+I study [Computer Science](https://en.wikipedia.org/wiki/Computer_science). I
+hope to pursue a PhD starting in the Fall of 2018.
 
 I help teach a high school AP Computer Science class at the [Morris Academy for
-Collaborative Studies](MACS) as part of the [TEALS program](TEALS). Shout out
-to Mr. Lo (our professional teacher), Mr. Woodruff (co-volunteer) and to all of
-our students!
+Collaborative Studies](http://www.macsx297.org/) as part of the [TEALS
+program](https://www.tealsk12.org/). Shout out to Mr. Lo (our professional
+teacher), Mr. Woodruff (co-volunteer) and to all of our students!
 
 # Research Interests
 
