@@ -8,8 +8,9 @@ permalink: /
 order: 1
 ---
 
-Hi! I'm a student at the [City College of New York](CCNY). I study [Computer
-Science](Wikipedia CS). I hope to pursue a PhD starting in the Fall of 2018.
+Hi! I'm a student at the [City College of New York](https://www.ccny.cuny.edu).
+I study [Computer Science](Wikipedia CS). I hope to pursue a PhD starting in
+the Fall of 2018.
 
 I help teach a high school AP Computer Science class at the [Morris Academy for
 Collaborative Studies](MACS) as part of the [TEALS program](TEALS). Shout out
