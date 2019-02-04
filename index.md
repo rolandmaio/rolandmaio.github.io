@@ -9,7 +9,8 @@ order: 1
 ---
 
 Hi! I'm a first-year PhD student at [Columbia University][Columbia]. I study
-[Computer Science][Wikipedia CS] focusing on fair machine learning.
+[Computer Science][Wikipedia CS] in the hopes of helping to harnessing the
+power of computing for the benefit of society.
 
 I help teach a high school AP Computer Science class at the [Morris Academy for
 Collaborative Studies][MACS] as part of the [TEALS program][TEALS]. Shout out
