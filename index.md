@@ -9,8 +9,9 @@ order: 1
 ---
 
 Hi! I'm a third-year PhD student in [Computer Science][Wikipedia CS] at
-[Columbia University][Columbia]. My overarching career goal is to help society
-harness the power of computing to its benefit.
+[Columbia University][Columbia] advised by [Augustin Chaintreau][Augustin]. My
+overarching career goal is to help society harness the power of computing to
+its benefit.
 
 Toward that end, in my scientific work I focus on the *algorithmic* and
 *machine intelligence* properties of the *strategic*, *economic*, and
@@ -38,3 +39,4 @@ PhD in fair machine learning.
 [TEALS]: https://www.tealsk12.org/
 [ESP]: https://www.cs.columbia.edu/esp/
 [Tim]: https://twrand.github.io/
+[Augustin]: http://www.cs.columbia.edu/~augustin/
