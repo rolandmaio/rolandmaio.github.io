@@ -8,17 +8,32 @@ permalink: /
 order: 1
 ---
 
-Hi! I'm a first-year PhD student at [Columbia University][Columbia]. I study
-[Computer Science][Wikipedia CS] in the hopes of helping to harnessing the
-power of computing for the benefit of society.
+Hi! I'm a third-year PhD student in [Computer Science][Wikipedia CS] at
+[Columbia University][Columbia]. My overarching career goal is to help society
+harness the power of computing to its benefit.
 
-I help teach a high school AP Computer Science class at the [Morris Academy for
-Collaborative Studies][MACS] as part of the [TEALS program][TEALS]. Shout out
-to Mr. Lo (our professional teacher), Mr. Povlitz (co-volunteer) and to all of
-our students!
+Toward that end, in my scientific work I focus on the *algorithmic* and
+*machine intelligence* properties of the *strategic*, *economic*, and
+*information aggregation* aspects of *large-scale sociotechnical systems*.
+This intellectual focus implicates a wide range of areas including: fair,
+adversarial, and just-plain machine learning, data science, artificial
+intelligence, algorithmic fairness, mechanism design, game theory, economics,
+social networks, and antitrust and consumer protection law.
+
+Of equal importance to me is my work as a Computer Science (CS) educator.
+Together with the amazing Tim Randolph, I am one of the two PhD Student
+Coordinators for Columbia's [Emerging Scholars Program][ESP].
+
+I enjoy mentoring students at all levels of their career, a holdover from my
+previous life as an NCO in the United States Marine Corps. If you are a student
+and would like to ask me anything about CS+Society, the PhD, academia, my work
+and such. I encourage you to reach out. Due to previous interest, I have put
+together a page of resources for students that may be considering pursuing a
+PhD in fair machine learning.
+
 
 [Columbia]: https://www.columbia.edu/
 [Wikipedia CS]: https://en.wikipedia.org/wiki/Computer_science
 [MACS]: http://www.macsx297.org/
 [TEALS]: https://www.tealsk12.org/
-
+[ESP]: https://www.cs.columbia.edu/esp/
