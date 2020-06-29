@@ -21,7 +21,7 @@ intelligence, algorithmic fairness, mechanism design, game theory, economics,
 social networks, and antitrust and consumer protection law.
 
 Of equal importance to me is my work as a Computer Science (CS) educator.
-Together with the amazing Tim Randolph, I am one of the two PhD Student
+Together with the amazing [Tim Randolph][Tim], I am one of the two PhD Student
 Coordinators for Columbia's [Emerging Scholars Program][ESP].
 
 I enjoy mentoring students at all levels of their career, a holdover from my
@@ -37,3 +37,4 @@ PhD in fair machine learning.
 [MACS]: http://www.macsx297.org/
 [TEALS]: https://www.tealsk12.org/
 [ESP]: https://www.cs.columbia.edu/esp/
+[Tim]: https://twrand.github.io/
