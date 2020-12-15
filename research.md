@@ -29,6 +29,10 @@ order: 1
 
 # ACM Digital Library: Author-izer Service Snippets and Links
 
+You can download a copy of this paper (hopefully soon these papers!)
+free-of-charge from the ACM Digital Library of the papers by following the
+link(s).
+
 <div class="multi-search multi-search--issue-item">
     <ul class="rlist ">
         <li class="grid-item separated-block--dashed--bottom">
