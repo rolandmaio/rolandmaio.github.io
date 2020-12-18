@@ -10,6 +10,9 @@ order: 1
 
 # Publications
 
+- J. Finocchiaro, R. Maio, F. Monachou, G. K. Patro, M. Raghavan, A.-A. Stoica,
+  S. Tsirtsis. *Bridging Machine Learning and Mechanism Design Towards
+  Algorithmic Fairness*. Accepted to FAccT '21. ([preprint][Bridging])
 - R. Maio and A. Chaintreau. *Incentives Needed for Low-Cost Fair Lateral Data
   Reuse*. FODS '20.  ([publisher][incentives needed])
 - S. Cleary and R. Maio. *Estimating The Number of Difficult Tree Pairs with
@@ -21,17 +24,13 @@ order: 1
 
 # Preprints
 
-- J. Finocchiaro, R. Maio, F. Monachou, G. K. Patro, M. Raghavan, A.-A. Stoica,
-  S. Tsirtsis. *Bridging Machine Learning and Mechanism Design Towards
-  Algorithmic Fairness*. [arXiv preprint arXiv:2010.05434][Bridging]
 - S. Cleary and R. Maio. *An Efficient Sampling Algorithm for Difficult Tree
   Pairs*. [arXiv preprint arXiv:2001.06422][Sampling]
 
 # ACM Digital Library: Author-izer Service Snippets and Links
 
 You can download a copy of this paper (hopefully soon these papers!)
-free-of-charge from the ACM Digital Library of the papers by following the
-link(s).
+free-of-charge from the ACM Digital Library by following the link(s).
 
 <div class="multi-search multi-search--issue-item">
     <ul class="rlist ">
