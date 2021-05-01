@@ -29,8 +29,8 @@ order: 1
 
 # ACM Digital Library: Author-izer Service Snippets and Links
 
-You can download a copy of this paper (hopefully soon these papers!)
-free-of-charge from the ACM Digital Library by following the link(s).
+You can download a copy of these papers free-of-charge from the ACM Digital
+Library by following the links.
 
 <div class="multi-search multi-search--issue-item">
     <ul class="rlist ">
@@ -145,7 +145,7 @@ free-of-charge from the ACM Digital Library by following the link(s).
         </li>
     </ul>
 </div>
-<link rel="stylesheet"
+<link rel="stylesheet" href="https://dl.acm.org/specs/products/acm/widgets/authorizer/scss/style.css" />
 
 <div class="multi-search multi-search--issue-item">
     <ul class="rlist ">
