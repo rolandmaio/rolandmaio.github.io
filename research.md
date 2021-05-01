@@ -41,6 +41,121 @@ free-of-charge from the ACM Digital Library by following the link(s).
                 </div>
                 <div class="issue-item__content">
                     <h5 class="issue-item__title"><a
+                            href="https://dl.acm.org/doi/10.1145/3442188.3445912?cid=99659587346"
+                            referrerpolicy="no-referrer-when-downgrade">Bridging
+                            Machine Learning and Mechanism Design towards
+                            Algorithmic Fairness</a></h5>
+                    <ul class="rlist--inline loa truncate-list"
+                        title="list of authors" data-lines="2">
+                        <li><a href="https://dl.acm.org/profile/99659186695"
+                                title="Jessie Finocchiaro"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="" aria-hidden="true" /><span>Jessie
+                                    Finocchiaro</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99659186695">CU
+                                    Boulder</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/99659587346"
+                                title="Roland Maio"><img class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="" aria-hidden="true" /><span>Roland
+                                    Maio</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99659587346">
+                                    Columbia University</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/99659680898"
+                                title="Faidra Monachou"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="" aria-hidden="true" /><span>Faidra
+                                    Monachou</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99659680898">
+                                    Stanford University</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/99659336912"
+                                title="Gourab K Patro"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="" aria-hidden="true" /><span>Gourab K
+                                    Patro</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99659336912">IIT
+                                    Kharagpur</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/87658651857"
+                                title="Manish Raghavan"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="" aria-hidden="true" /><span>Manish
+                                    Raghavan</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-87658651857">
+                                    Cornell University</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/99659259401"
+                                title="Ana-Andreea Stoica"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt=""
+                                    aria-hidden="true" /><span>Ana-Andreea
+                                    Stoica</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99659259401">
+                                    Columbia University</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/99659680657"
+                                title="Stratis Tsirtsis"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="" aria-hidden="true" /><span>Stratis
+                                    Tsirtsis</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99659680657">Max
+                                    Planck Institute for Software Systems</p>
+                            </span></li>
+                    </ul>
+                    <div class="issue-item__detail"><span>March 2021</span><span
+                            class="dot-separator">pp 489-503 </span><span><a
+                                href="https://doi.org/10.1145/3442188.3445912"
+                                class="issue-item__doi  dot-separator">https://doi.org/10.1145/3442188.3445912</a></span>
+                    </div>
+                    <div data-lines='4'
+                        class="issue-item__abstract truncate-text">
+                        <div class="issue-item__abstract truncate-text"
+                            data-lines="4">
+
+                            <p>Decision-making systems increasingly orchestrate
+                                our world: how to intervene on the
+                                algorithmic components to build fair and
+                                equitable systems is therefore a question
+                                of utmost importance; one that is substantially
+                                complicated by the context-dependent
+                                ...</p>
+                        </div>
+                    </div><iframe
+                        src="https://dl.acm.org/action/renderAuthorizerContentBib?doi=10.1145/3442188.3445912"
+                        frameborder="0" width="100%" height="100%"
+                        class="bibliometrics-iframe"></iframe>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+<link rel="stylesheet"
+
+<div class="multi-search multi-search--issue-item">
+    <ul class="rlist ">
+        <li class="grid-item separated-block--dashed--bottom">
+            <div class="issue-item clearfix">
+                <div class="issue-item__citation">
+                    <div class="issue-heading">research-article</div>
+                </div>
+                <div class="issue-item__content">
+                    <h5 class="issue-item__title"><a
                             href="https://dl.acm.org/doi/10.1145/3412815.3416890?cid=99659587346">Incentives
                             Needed for Low-Cost Fair Lateral Data Reuse</a></h5>
 
